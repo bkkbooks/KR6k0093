@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6k0093/v1
+canonical_location: https://kanripo.org/bkk/KR6k0093/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 梵網經菩薩戒疏
+  identifiers:
+    alt_id:
+    - X38n0690
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0690.xml
+    old_id: X38n0690
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0093_000.yaml, hash: 'sha256:fcdc753087d9e3a24a645a70071d4f312a20e081171a18071a177f0dec90df93'}
+  - {seq: 1, filename: KR6k0093_001.yaml, hash: 'sha256:b3fe1a2402562efe64c863944566035713a80141d731952b650b19c48353aeb0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0093_001.markers.yaml, hash: 'sha256:ce9daaddd5e2ff4afb19b529e679eadf9a802674639722f4618f4bc743e2e09e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0093_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17285
+  label: 梵網經疏上
+  type: juan
+  level: 1
+hash: sha256:158deeb59a2abdec61a1ccce8e7c1902b7da6839ebc0406c2a51ff8695ebef80
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
