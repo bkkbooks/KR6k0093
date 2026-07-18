@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6k0093_001-X.yaml, hash: 'sha256:67c294e571b6f68fa87ed3fee7d3e46d8608b8caa6ad5cf9aaf6a3d9a8e6c765'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0093_000-X.markers.yaml, hash: 'sha256:a3b89d2727a81efa7833be9d273168277077654394e590c7e453777eba538922'}
-  - {seq: 1, role: markers, filename: assets/KR6k0093_001-X.markers.yaml, hash: 'sha256:57262f544fa85c730b8ad1a3312d221d287d26f9936c8c56b22e16ae4a7feb57'}
+  - {seq: 1, role: markers, filename: assets/KR6k0093_001-X.markers.yaml, hash: 'sha256:69aed257cf593bdceb2625c41a0b8e83f4625ba42daffa05b12f95c4c7b0723e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,4 @@ table_of_contents:
   label: 梵網經疏上
   type: juan
   level: 1
-hash: sha256:761d51bc886ff3ef63590617ee9164030a5b508f75befe64e82fa40f34227aa2
+hash: sha256:0db6339975ba4c5a68881ce4a452751d3657e0f1d448ae347f1b20e0d20546ab
